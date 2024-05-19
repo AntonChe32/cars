@@ -2,6 +2,7 @@
 #include <string>
 
 // Для каждого члена определяющего данные класса Car и Truck сделаем отдельный класс
+
 class Model {
 public:
     std::string value;

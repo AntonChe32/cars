@@ -1,0 +1,11 @@
+build/**
+.vscode/**
+CMakeFiles/**
+cars
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+src/tmp
+src/tmp.cpp
+src/ops
+.errlog
