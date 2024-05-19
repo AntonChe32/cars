@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/liveuser/study/c++/build",
-  "command": "/usr/bin/g++-13 -g -std=gnu++17 -o CMakeFiles/cars.dir/src/ops.cpp.o -c /home/liveuser/study/c++/src/ops.cpp",
-  "file": "/home/liveuser/study/c++/src/ops.cpp"
-}
-]

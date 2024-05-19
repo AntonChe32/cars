@@ -1,3 +1,0 @@
-/home/liveuser/study/c++/build/CMakeFiles/cars.dir
-/home/liveuser/study/c++/build/CMakeFiles/edit_cache.dir
-/home/liveuser/study/c++/build/CMakeFiles/rebuild_cache.dir
