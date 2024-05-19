@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22)
 project(
-    cars5
+    cars
     VERSION 0.0.0
     DESCRIPTION "cars"
     LANGUAGES CXX
