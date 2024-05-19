@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/cars.dir/src/ops.cpp.o -o cars 
