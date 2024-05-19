@@ -234,7 +234,7 @@ int main() {
     car2 = Horsepower(1100);
     car2 = Cylinders(10);
     car2 = "Запорожец";
-    // Конструктор с параметрами
+    // Конструктор с параметрами.
     Car car3("Niva", 12, 1600);
     // в stdout
     std::cout << car << std::endl << car1 << std::endl << car2 << std::endl << car3 << std::endl;
