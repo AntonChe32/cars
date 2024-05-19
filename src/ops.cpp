@@ -38,11 +38,17 @@ protected:
 
 public:
     // Конструктор по умолчанию
-    Car() :  model(""), cylinders(0), horsepower(0) { car_counter ++; }
+    Car() :  model(""), cylinders(0), horsepower(0) { 
+        car_counter ++; 
+    }
     // Конструктор с параметрами
-    Car(const char *model, int cylinders, int horsepower): model(model), cylinders(cylinders),horsepower(horsepower){ car_counter ++; }
+    Car(const char *model, int cylinders, int horsepower): model(model), cylinders(cylinders),horsepower(horsepower){ 
+        car_counter ++; 
+    }
     // Явное описание конструктора копии
-    Car(const Car &c) : model(c.model), cylinders(c.cylinders), horsepower(c.horsepower) { car_counter ++; }
+    Car(const Car &c) : model(c.model), cylinders(c.cylinders), horsepower(c.horsepower) { 
+        car_counter ++; 
+    }
     // Разве в C++ есть геттеры и сеттеры - как в JS или Python
     // Ниже если это можно назвать getter и  setter - на мой взгляд обычные методы
     std::string& get_model(){
